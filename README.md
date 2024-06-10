@@ -13,9 +13,9 @@ FeedBro is a browser extension (Chrome/FireFox) that lets you read RSS, Atom and
 * Next to the **"User interface language"** section, click on **"Import Locale"**
 * Paste this link: https://raw.githubusercontent.com/realgooseman/feedbro-locale-fr_FR/master/feedbro-locale-fr_FR.json
 * Hit OK and you're done!
-
-
+  
   > _*The Chrome extension works on all chromium-based browsers as well (Brave, Vivaldi, Opera,...)_
 
 ## Changelog
-**10/06/2024 (June 10th) -** Initial version: v1.00
+**10/06/2024 (June 10th) -** v1.10: Small adjustments  
+**10/06/2024 (June 10th) -** v1.00: Initial version  
